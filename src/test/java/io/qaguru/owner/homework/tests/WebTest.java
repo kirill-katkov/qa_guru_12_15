@@ -11,5 +11,4 @@ public class WebTest extends TestBase {
     public void testGithubTitle() {
         assertEquals("GitHub: Where the world builds software · GitHub", title());
     }
-
 }

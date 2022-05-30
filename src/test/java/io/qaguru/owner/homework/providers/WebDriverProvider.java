@@ -43,5 +43,4 @@ public class WebDriverProvider implements Supplier<WebDriver> {
         throw new NullPointerException("No such browser");
     }
 
-
 }
